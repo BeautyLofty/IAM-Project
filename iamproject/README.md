@@ -1,7 +1,7 @@
 # Active Directory & IAM Home Lab
 
 ## Overview
-This lab demonstrates hands-on experience with Windows Server 2022, Active Directory Domain Services, and IAM-related administrative tasks.
+This Lab demonstrates hands-on experience with Windows Server 2022, Active Directory Domain Services, and IAM-related administrative tasks.
 
 ## Environment
 - Host: Lenovo Laptop (Windows)
@@ -47,3 +47,4 @@ This lab demonstrates hands-on experience with Windows Server 2022, Active Direc
 - GPOs
 - Domain-joined client VM
 - Azure AD / Entra ID
+
